@@ -10,7 +10,8 @@ root.render(
   <React.StrictMode>
     <FpjsProvider
       loadOptions={{
-        apiKey: "zmKJmf9RYSVjYSTyAJIw"
+        apiKey: "zmKJmf9RYSVjYSTyAJIw",
+        endpoint: "https://metrics.gvquiroz.com"
       }}
     >
       <App />
