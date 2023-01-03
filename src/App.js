@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { useVisitorData } from '@fingerprintjs/fingerprintjs-pro-react'
 
